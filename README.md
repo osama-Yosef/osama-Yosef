@@ -71,17 +71,6 @@ Order and inventory management for a manufacturing business, with admin, custome
 - Firebase and Supabase for scalable, secure backends
 - API integration and offline-friendly data flows
 
-## GitHub Activity
-
-<p>
-  <a href="https://github.com/osama-Yosef">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=osama-Yosef&theme=github-dark-blue&hide_border=true&background=0D1117" />
-      <img src="https://streak-stats.demolab.com/?user=osama-Yosef&hide_border=true" alt="GitHub streak stats" />
-    </picture>
-  </a>
-</p>
-
 ## 📫 Connect With Me
 
 - **Portfolio:** [osama-yosef.github.io/osama-yosef-portfolio](https://osama-yosef.github.io/osama-yosef-portfolio/)
